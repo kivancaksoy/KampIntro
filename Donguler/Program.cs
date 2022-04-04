@@ -21,7 +21,7 @@ namespace Donguler
                 Console.WriteLine(kurslar[i]);
             }
 
-            Console.WriteLine("----------------------------------");
+            Console.WriteLine("-----------------------------------");
 
             foreach (string kurs in kurslar)
             {
