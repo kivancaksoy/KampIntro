@@ -27,9 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIn
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{0CFF8C7E-8D3E-407E-A23B-FC9431D6AE1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{843283E7-A604-48A6-910A-E0B4E6AC52E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{843283E7-A604-48A6-910A-E0B4E6AC52E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{362FE79A-4E83-41C5-9F99-1EA8F66BA20F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{362FE79A-4E83-41C5-9F99-1EA8F66BA20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{823E7659-1499-4BA0-99EE-30D303D2B864}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{362FE79A-4E83-41C5-9F99-1EA8F66BA20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{362FE79A-4E83-41C5-9F99-1EA8F66BA20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{362FE79A-4E83-41C5-9F99-1EA8F66BA20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823E7659-1499-4BA0-99EE-30D303D2B864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823E7659-1499-4BA0-99EE-30D303D2B864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823E7659-1499-4BA0-99EE-30D303D2B864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823E7659-1499-4BA0-99EE-30D303D2B864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
